@@ -4,7 +4,7 @@
 
 //-------------------Declaracion de variables globales------------------
 float P;
-const float Voffset = 0.2/0.0451; //0.2 -> es el voltaje tipico minimo con que traba el sensor
+const float Voffset = 0.2/0.0451; //0.2 -> es el voltaje tipico minimo con que trabaja el sensor
 const float Sensitivity = 1/0.0451; //Resolucion del sensor 45 mV/Kpa
 const float Vs = 5.0;
 int const n = 4;
